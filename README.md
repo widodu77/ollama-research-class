@@ -1,6 +1,6 @@
 # Llama Document Extraction
 
-Quick project i had for uni 
+Quick project i had for uni (left .env.examlpe in here cause it lowkey dosen't have much in it)
 
 this is a lightweight interface for extracting data from documents (CSV/PDF) using Llama3:8b via Ollama.
 
